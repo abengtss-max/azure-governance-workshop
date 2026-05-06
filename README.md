@@ -16,12 +16,12 @@ Full-day workshop focused on Azure fundamentals for non-technical stakeholders.
 
 ## Modules
 
-- [Module 1](./01-azure-core-concepts/README.md)
-- [Module 2](./02-cost-management/README.md)
-- [Module 3](./03-resource-inventory/README.md)
-- [Module 4](./04-governance-compliance/README.md)
-- [Module 5](./05-dashboards-reporting/README.md)
-- [Module 6](./06-scenarios-qa/README.md)
+- [Module 1: Azure Core Concepts](./01-azure-core-concepts/README.md)
+- [Module 2: Cost Management and Analysis](./02-cost-management/README.md)
+- [Module 3: Resource Inventory and Visibility](./03-resource-inventory/README.md)
+- [Module 4: Governance and Compliance](./04-governance-compliance/README.md)
+- [Module 5: Dashboards and Self-Service Reporting](./05-dashboards-reporting/README.md)
+- [Module 6: Practical Scenarios and Q&A](./06-scenarios-qa/README.md)
 
 ## Supporting Material
 
